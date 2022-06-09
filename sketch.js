@@ -14,7 +14,7 @@ function draw() {
 
   strokeWeight(1);
 
-  fill(65, 105, 225);
+  fill(255);
   stroke(0);
   ellipse(0, 0, 640, 640);
   ellipse(0, 0, 600, 600);
